@@ -326,13 +326,13 @@ def more_plot(df):
         plt.figure(figsize=(10, 6))
         # Displaying the plot
         plt.show()
-        # Displaying the plot
-        plt.show()
+        print("Great Job, well done!")
     
     elif answer.lower() == "no":
             print("Ok no Problem")
     else:
         print("Invalid input. Please enter 'yes' or 'no'.")
+
         
 def main():
     while True:
