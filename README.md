@@ -32,9 +32,9 @@ For the rest, the code is interactive as possible to guide you achive your goal.
 
 To achive this work, I make use of my udacity classroom courses, stack overflow, W3Schools and google for undertanding of some phython method and syntax.
 
-**Looking forward to hearing from you soon**
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%**Looking forward to hearing from you soon**%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-**Best Regards**
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%**Best Regards**%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-_JOSUE NGUINABE_
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%_JOSUE NGUINABE_%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
