@@ -6,10 +6,6 @@ from collections import Counter
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-CITY_DATA = { 'chicago': 'chicago.csv',
-              'new york city': 'new_york_city.csv',
-              'washington': 'washington.csv' }
-
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
@@ -330,13 +326,13 @@ def more_plot(df):
         plt.figure(figsize=(10, 6))
         # Displaying the plot
         plt.show()
-        # Displaying the plot
-        plt.show()
+        print("Great Job, well done!")
     
     elif answer.lower() == "no":
             print("Ok no Problem")
     else:
         print("Invalid input. Please enter 'yes' or 'no'.")
+
         
 def main():
     while True:
